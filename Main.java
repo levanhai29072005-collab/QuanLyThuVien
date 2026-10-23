@@ -8,7 +8,7 @@ public class Main {
         String hoTen = scanner.nextLine();
         
         System.out.println("Xin chao: " + hoTen);
+        System.out.println("Lop: 24T3 - Ma SV: 2415053122316");
         
-        scanner.close();
     }
 }
